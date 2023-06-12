@@ -1,2 +1,3 @@
-# MacSwiftFBP
-A pure Swift FBP system
+# fbp
+
+A description of this package.
